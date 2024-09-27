@@ -7,7 +7,7 @@ const tarea = [
     {
         nombre: "Estudiar para el examen de Backend",
         fecha: "2024-09-23"
-        hecho: false
+        hecho: false,
     },
     {
         nombre: "Ir de compras",
